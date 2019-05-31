@@ -1,0 +1,47 @@
+TESTING INTERPOLATETRIANGLE()
+
+Check 1 passed
+
+Check 2 passed
+
+Check 3 passed
+
+All checks passed.
+
+______________________________________________
+
+TESTING FROMTRIANGLES()
+
+Check 1 passed
+
+Check 2 passed
+
+Check 3 passed
+
+Check 4 passed
+
+All checks passed.
+
+______________________________________________
+
+TESTING GETPIXELCOLOR()
+
+Check 1 passed
+
+Check 2 passed
+
+All checks passed.
+
+______________________________________________
+
+TESTING GETBLENDEDCOLOR()
+
+Check 1 passed
+
+Check 2 passed
+
+Check 3 passed
+
+All checks passed.
+
+______________________________________________

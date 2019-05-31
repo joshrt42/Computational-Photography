@@ -1,0 +1,23 @@
+TESTING GETBLACKIMAGE
+
+Check 1 passed
+
+Check 2 passed
+
+Check 3 passed
+
+All checks passed.
+
+______________________________________________
+
+TESTING RELIGHTING
+
+Check 1 passed
+
+Check 2 passed
+
+Check 3 passed
+
+Check 4 passed
+
+All checks passed.
